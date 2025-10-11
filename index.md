@@ -6,18 +6,20 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # Hello Friend. Hello World.
+  # About PFAF
 
+  
+Pilates for Abortion Funds is a small, independent fundraiser that launched in July 2022 as a way to turn post-Dobbs despair into action.
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+ 
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
+Since well before Roe v Wade was overturned, access to abortion has been difficult and expensive, making it out of reach for many people who desperately need this critical form of health care, particularly people in challenging financial situations, minoritized groups, and those who live in rural areas. Abortion funds have been operating for many years to help patients cover not only the procedure itself but transportation, lodging, childcare, and other related expenses. The events of summer 2022 made this need even greater and more urgent.
 
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+ 
+
+PFAF is a monthly, all-levels, body neutral Pilates class for which the cost of entry is proof of a donation of any amount to a local/state/regional abortion fund of your choice, the WI-based clinic Care for All, or the National Network of Abortion Funds. Since July 2022, we have collectively raised more than $45,000 for abortion funds, and we're looking forward to seeing that number continue to grow.
+
+To learn more about how it works and how to join, click here.
 footer: true
 permalink: /
 ---
